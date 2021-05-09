@@ -146,6 +146,10 @@ header .main-info .header-info .my-btn ::after {
   border: none;
 }
 
+header .main-info .header-info .my-btn:hover {
+  border: 2px solid #4AC9F3;
+}
+
 header .main-info .header-info .my-btn1 {
   background: #2E2B32;
   border-radius: 36px;
@@ -185,6 +189,10 @@ header .main-info .header-info .my-btn1 ::after {
   top: 531px;
   border: none;
   color: #F6F5F1;
+}
+
+header .main-info .header-info .my-btn1:hover {
+  border: 2px solid #4AC9F3;
 }
 
 header .main-info .header-bg {
